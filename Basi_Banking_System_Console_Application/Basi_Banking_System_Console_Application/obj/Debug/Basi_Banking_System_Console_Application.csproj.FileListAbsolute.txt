@@ -1,0 +1,6 @@
+C:\Users\Student\Downloads\Project 1 (forms)\Basi_Banking_System_Console_Application\Basi_Banking_System_Console_Application\bin\Debug\Basi_Banking_System_Console_Application.exe.config
+C:\Users\Student\Downloads\Project 1 (forms)\Basi_Banking_System_Console_Application\Basi_Banking_System_Console_Application\bin\Debug\Basi_Banking_System_Console_Application.exe
+C:\Users\Student\Downloads\Project 1 (forms)\Basi_Banking_System_Console_Application\Basi_Banking_System_Console_Application\bin\Debug\Basi_Banking_System_Console_Application.pdb
+C:\Users\Student\Downloads\Project 1 (forms)\Basi_Banking_System_Console_Application\Basi_Banking_System_Console_Application\obj\Debug\Basi_Banking_System_Console_Application.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\Project 1 (forms)\Basi_Banking_System_Console_Application\Basi_Banking_System_Console_Application\obj\Debug\Basi_Banking_System_Console_Application.exe
+C:\Users\Student\Downloads\Project 1 (forms)\Basi_Banking_System_Console_Application\Basi_Banking_System_Console_Application\obj\Debug\Basi_Banking_System_Console_Application.pdb
